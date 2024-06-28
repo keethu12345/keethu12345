@@ -63,15 +63,14 @@ To collaborate with like-minded professionals on cutting-edge technologies.
   <h2> Contributions :) </h2>
   <br>
   <picture>
-  <img alt="snake eating my contributions" media= "(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" media= "(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
   </picture>
   <br/><br/><br/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=keethu12345&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&theme=radical)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&locale=en" alt="keethu12345" /></p><br>
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=keethu12345&" alt="keethu12345" /></p><br>
 
 
