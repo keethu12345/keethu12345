@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">🌐 Data Science & Machine Learning Enthusiast | 📚 Data Science Student @ SRM | IITM </h3>
 
-<h4 allign='left'>A dedicated Data Science student with a fervent interest in Machine Learning, AI, and Intent-Based Networking. My academic journey at [YourUniversity] has been a thrilling ride through the realms of data and its potential to revolutionize technology.
+<h4 allign='left'>A dedicated Data Science student with a fervent interest in Machine Learning, AI, and Intent-Based Networking. My academic journey at SRM University as a CSE major and at IIT Madras as a BS in Data Sciences student has been a thrilling ride through the realms of data and its potential to revolutionize technology.
 
 🌟 About Me:
 
