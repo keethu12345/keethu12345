@@ -57,7 +57,18 @@ To collaborate with like-minded professionals on cutting-edge technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,aws,azure,bootstrap,c,css,cpp,django,figma,flask,gcp,github,html,java,js,kubernetes,mysql,pycharm,pytorch,py,sklearn,tensorflow,vscode&perline=12)](https://skillicons.dev)
 
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+  <img alt="snake eating my contributions" media= "(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&locale=en" alt="keethu12345" /></p><br>
 
