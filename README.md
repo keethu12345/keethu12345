@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://camo.githubusercontent.com/d246f1db0e9889b1ff1d2e20848c36120a17299e8ae1346ed2ab9b35c4dcca2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966" alt="MasterHead" width="500" height="300">
 </div>
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg url=github.com/keethu12345/keethu12345&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=500&height=70&lines=Hey,+there+👋+;I'm+Keerthika+Pujari+!!" alt="Typing SVG" /></a>
@@ -57,7 +57,7 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 </div>
 
 
-url=github.com/keethu12345/keethu12345&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keethu12345&theme=dark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&theme=radical)
 
