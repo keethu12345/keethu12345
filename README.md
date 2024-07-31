@@ -11,11 +11,6 @@
 
 A dedicated Data Science student at SRM University (CSE) and IIT Madras (BS in Data Sciences), with a strong interest in Machine Learning, AI, and Intent-Based Networking.
 
-🔍 Current Focus:
-
-Natural Language Processing (NLP): Exploring innovative methods to enhance language understanding and generation.
-Intent-Based Networking: Developing intelligent networking solutions that leverage AI to automate and optimize network operations.
-
 🎯 Goals:
 
 Deepen expertise in Machine Learning and AI.
