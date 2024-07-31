@@ -5,11 +5,11 @@
 </h1>
 <h3 align="center">🌐 Data Science & Machine Learning Enthusiast | 📚 Data Science Student @ SRM | IITM </h3>
 
-<h4 allign='left'> <P>A dedicated Data Science student with a fervent interest in Machine Learning, AI, and Intent-Based Networking. My academic journey at SRM University as a CSE major and at IIT Madras as a BS in Data Sciences student has been a thrilling ride through the realms of data and its potential to revolutionize technology.</p>
+<h4 allign='left'>
 
 🌟 About Me:
 
-With a solid foundation in Data Science and a growing expertise in Machine Learning, I am passionate about harnessing the power of data to drive intelligent solutions. My current focus includes Natural Language Processing (NLP) and Intent-Based Networking, where I aim to merge the precision of data science with the dynamic capabilities of AI.
+A dedicated Data Science student at SRM University (CSE) and IIT Madras (BS in Data Sciences), with a strong interest in Machine Learning, AI, and Intent-Based Networking.
 
 🛠️ Skills & Tools:
 
@@ -26,9 +26,9 @@ Intent-Based Networking: Developing intelligent networking solutions that levera
 
 🎯 Goals:
 
-To deepen my understanding of Machine Learning and AI.
-To contribute to open-source projects focused on NLP and network automation.
-To collaborate with like-minded professionals on cutting-edge technologies.
+Deepen expertise in Machine Learning and AI.
+Contribute to open-source NLP and network automation projects.
+Collaborate on cutting-edge technologies.
 </h4>
 
 <img align ='right' alt='coding' width='400' src ="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
