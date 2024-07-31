@@ -48,7 +48,7 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 
 
 
-<div align="center" style="background-color: #181818; color: #f0f0f0;">
+<div align="center" style="background-color: #0d1117; color: #c9d1d9;">
   <h2> Contributions :) </h2>
   <br>
   <picture>
@@ -56,6 +56,7 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
   </picture>
   <br/><br/><br/>
 </div>
+
 
 
 
