@@ -26,8 +26,6 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 
 - 🌱 I’m currently learning **Natural Language processing(NLP), Intent Based Networking, Generative AI, Deep Learning,Machine Learning**
 
-- 💬 Ask me about **Python, C, C++, HTML, JavaScript, MS SQL, Data Structures and Algorithms :)**
-
 - 📫 How to reach me **keerthikapujari25@gmail.com**
 
 <h3 align="left">📩 Connect with me </h3>
