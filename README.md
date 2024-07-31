@@ -2,7 +2,7 @@
     <img src="https://camo.githubusercontent.com/d246f1db0e9889b1ff1d2e20848c36120a17299e8ae1346ed2ab9b35c4dcca2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966" alt="MasterHead" width="500" height="300">
 </div>
 
-![Visitor Count](https://hits.dwyl.com/example/my-repo.svg?style=for-the-badge&label=Visitors&color=blue)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/keethu12345/keethu12345&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 
 <h1 align="center">
