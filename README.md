@@ -13,7 +13,7 @@ A dedicated Data Science student at SRM University (CSE) and IIT Madras (BS in D
 
 🎯 Goals:
 
-**- Deepen expertise in Machine Learning and AI.**
+**Deepen expertise in Machine Learning and AI.**
 **Contribute to open-source NLP and network automation projects.**
 **Collaborate on cutting-edge technologies.**
 </h4>
