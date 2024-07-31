@@ -66,7 +66,9 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keethu12345&theme=dark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&theme=radical)
 
-![Visitor Count](https://img.shields.io/badge/Visitors-{{count}}-brightgreen)
+<div style="transform: scale(10.5); transform-origin: top left;">
+   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=keethu12345.keethu12345" />
+</div>
 
 
 
