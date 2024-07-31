@@ -11,14 +11,6 @@
 
 A dedicated Data Science student at SRM University (CSE) and IIT Madras (BS in Data Sciences), with a strong interest in Machine Learning, AI, and Intent-Based Networking.
 
-🛠️ Skills & Tools:
-
-<p allign='left'>Languages: Python, R, SQL
-Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, NLTK, spaCy
-Tools: Jupyter, VSCode, Git, Docker
-Concepts: Machine Learning, Deep Learning, NLP, Data Visualization, Statistical Analysis
-Networking: Intent-Based Networking, Network Automation </p>
-
 🔍 Current Focus:
 
 Natural Language Processing (NLP): Exploring innovative methods to enhance language understanding and generation.
