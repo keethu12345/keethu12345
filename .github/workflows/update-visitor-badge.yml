@@ -17,7 +17,7 @@ jobs:
       - name: Fetch visitor count
         id: visitor_count
         run: |
-          count=$(curl -s https://visitor-badge.laobi.icu/badge?page_id=keethu12345.keethu12345 | grep -oP '\d+')
+          count=$(curl -s https://visitor-badge.laobi.icu/badge?page_id=keethu12345.keethu12345 | grep -oP '\d+(?=<\/div>)')
           echo "::set-output name=count::$count"
 
       - name: Update README
