@@ -1,0 +1,35 @@
+name: Update Visitor Badge
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Fetch visitor count
+        id: visitor_count
+        run: |
+          count=$(curl -s https://visitor-badge.laobi.icu/badge?page_id=keethu12345.keethu12345 | grep -oP '\d+')
+          echo "::set-output name=count::$count"
+          
+      - name: Update README
+        run: |
+          count=${{ steps.visitor_count.outputs.count }}
+          badge_url="https://img.shields.io/badge/VISITOR-${count}-blue?style=for-the-badge"
+          sed -i "s|!\[visitor badge\](.*)|![visitor badge]($badge_url)|" README.md
+          
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update visitor badge'
+          git push
