@@ -3,8 +3,6 @@
 </div>
 
 
-<img align="right" src="https://img.shields.io/badge/VISITOR%20COUNT-1000-ff69b4?style=for-the-badge" />
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=500&height=70&lines=Hey,+there+👋+;I'm+Keerthika+Pujari+!!" alt="Typing SVG" /></a>
 </h1>
@@ -67,6 +65,7 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keethu12345&theme=dark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keethu12345&show_icons=true&theme=radical)
+<img align="right" src="https://img.shields.io/badge/VISITOR%20COUNT-1000-ff69b4?style=for-the-badge" />
 
 
 
