@@ -48,14 +48,15 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 
 
 
-<div align="center">
+<div align="center" style="background-color: #181818; color: #f0f0f0;">
   <h2> Contributions :) </h2>
   <br>
   <picture>
-  <img alt="snake eating my contributions" media= "(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
   </picture>
   <br/><br/><br/>
 </div>
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keethu12345&theme=dark)](https://git.io/streak-stats)
