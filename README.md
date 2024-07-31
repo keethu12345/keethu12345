@@ -7,6 +7,8 @@
 </div>
 
 
+
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=500&height=70&lines=Hey,+there+👋+;I'm+Keerthika+Pujari+!!" alt="Typing SVG" /></a>
 </h1>
