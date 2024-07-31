@@ -23,9 +23,9 @@ jobs:
       - name: Update README
         run: |
           count=${{ steps.visitor_count.outputs.count }}
-          badge_url="https://visitor-badge.laobi.icu/badge?page_id=keethu12345.keethu12345"
-          new_badge="<div style=\"transform: scale(1.5); transform-origin: top left;\"><img align=\"right\" src=\"$badge_url\" /></div>"
-          sed -i "s|<div style=\"transform: scale(1.5); transform-origin: top left;\"><img align=\"right\" src=\".*\" /></div>|$new_badge|" README.md
+          badge_url="https://img.shields.io/badge/VISITOR-${count}-blue?style=for-the-badge"
+          badge_html="<img align=\"right\" src=\"$badge_url\" style=\"transform: scale(1.5); transform-origin: top left;\" />"
+          sed -i "s|<img align=\"right\" src=\".*visitor-badge.laobi.icu.*\" .* />|$badge_html|" README.md
 
       - name: Commit changes
         run: |
