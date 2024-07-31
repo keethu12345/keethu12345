@@ -51,10 +51,13 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 <div align="center" style="background-color: #0d1117; color: #c9d1d9;">
   <h2> Contributions :) </h2>
   <br>
-    <picture>
-    <img alt="snake eating my contributions" media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br/><br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/keethu12345/keethu12345/output/github-contribution-grid-snake.svg" />
+</picture>
+
+  <br/>
   
 </div>
 
