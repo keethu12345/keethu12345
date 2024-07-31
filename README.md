@@ -41,7 +41,7 @@ Deepen expertise in Machine Learning and AI, contribute to open-source NLP and n
 
 <h3 align="left">🖥️Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,aws,azure,bootstrap,c,css,cpp,django,figma,flask,gcp,github,html,java,js,kubernetes,mysql,pycharm,pytorch,py,sklearn,tensorflow,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,c,css,cpp,django,figma,flask,gcp,github,html,java,js,kubernetes,mysql,pycharm,pytorch,py,sklearn,tensorflow,vscode&perline=12)](https://skillicons.dev)
 
 
 
