@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=500&height=70&lines=Hey,+there+👋+;I'm+Keerthika+Pujari+!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+There!+I'm+Keerthika+Pujari" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">🌐 Data Science & Machine Learning Enthusiast | 📚 Data Science Student @ SRM | IITM </h3>
 
